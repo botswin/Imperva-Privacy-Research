@@ -1,3 +1,9 @@
+/**
+ * ⚠️ ACADEMIC RESEARCH USE ONLY
+ * For authorized testing environments that comply with all applicable laws.
+ * See: https://github.com/botswin/Imperva-Reverse/blob/main/DISCLAIMER.md
+ */
+
 // @ts-check
 
 import { traverse, types } from '@babel/core';
