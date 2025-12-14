@@ -1,16 +1,16 @@
-# Imperva Security Research
+# Imperva Privacy Research
 
-## ⚠️ ACADEMIC RESEARCH USE ONLY
+## ⚠️ PRIVACY RESEARCH USE ONLY
 
-**📋 [Complete Legal Disclaimer & Terms of Use →](DISCLAIMER.md)**
+**📋 [Complete Legal Disclaimer and Terms of Use](DISCLAIMER.md)**
 
-This repository is designed for **academic research and authorized security analysis** of code obfuscation techniques in controlled environments that comply with all applicable laws and institutional ethics guidelines.
+This repository is designed for **privacy-focused research and authorized security analysis** of code obfuscation techniques in controlled environments that comply with all applicable laws and institutional ethics guidelines.
 
 ---
 
 ## Research Overview
 
-This repository contains educational materials for **security researchers** studying JavaScript obfuscation patterns and deobfuscation methodologies in **authorized testing environments**. The research focuses on understanding Imperva/Incapsula protection mechanisms for academic and security education purposes.
+This repository contains educational materials for **researchers** studying JavaScript obfuscation patterns and deobfuscation methodologies in **authorized testing environments**. The research focuses on understanding Imperva and Incapsula protection mechanisms for privacy protection and security education.
 
 ## Educational Components
 
@@ -25,8 +25,8 @@ This repository contains educational materials for **security researchers** stud
 
 ### Research Applications
 
-- **Code obfuscation studies** for understanding defensive programming techniques
-- **Static analysis methodologies** for security research education
+- **Code obfuscation studies** for understanding defensive programming and tracking resistance techniques
+- **Static analysis methodologies** for privacy and security research education
 - **AST manipulation research** for compiler design studies
 - **JavaScript transformation pattern analysis** for academic purposes
 - **Web security mechanism studies** for educational frameworks
@@ -43,7 +43,7 @@ The repository demonstrates educational approaches to:
 - AST (Abstract Syntax Tree) manipulation techniques for academic study
 - Pattern recognition in security code transformation
 - Educational deobfuscation methodologies for research purposes
-- Understanding web application protection mechanisms
+- Understanding web application protection mechanisms with a privacy focus
 
 ### Dependencies & Tools
 
@@ -67,15 +67,15 @@ npm install
 
 This research framework is valuable for:
 
-- **Security education** - Understanding web application protection mechanisms
+- **Security education** - Understanding web application protection and tracking mechanisms
 - **Compiler design studies** - Analyzing code transformation and obfuscation patterns
-- **Static analysis research** - Developing analysis methodologies for security research
+- **Static analysis research** - Developing analysis methodologies for privacy and security research
 - **Defensive programming education** - Teaching code protection and obfuscation concepts
 - **Cybersecurity curriculum** - Educational materials for academic institutions
 
 ## Important Usage Guidelines
 
-⚠️ **This repository is strictly for academic research and authorized security analysis**
+⚠️ **This repository is strictly for privacy research and authorized security analysis**
 
 ### Requirements
 
